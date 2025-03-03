@@ -1,13 +1,13 @@
-package com.example.popoo;
+package com.example.servicepopoo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class PopooApplication {
+public class ServicePopooApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(PopooApplication.class, args);
+        SpringApplication.run(ServicePopooApplication.class, args);
     }
 
 }
